@@ -2,8 +2,9 @@
 
 
 
-learned                good practice
+ Languages:                good practice:
 
 
 
-learning               learning path
+learning:               learning path:
+PYTHON
